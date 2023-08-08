@@ -15,6 +15,7 @@ It shows how to do Feature Engineering with Snowpark, preparing data for trainin
 * Snowflake account (I'm using a trial account)
 * Snowpark for Python version 0.12.0 or later
 * Jupyter or JupyterLab
+* Enable third party Anaconda packages
 * The examples also use the following Python libraries:
   ```
   scikit-learn
