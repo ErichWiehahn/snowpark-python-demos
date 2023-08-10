@@ -10,7 +10,8 @@ This example is based on the Machine Learning for Credit Card Fraud detection - 
 
 It shows how to do Feature Engineering with Snowpark, preparing data for training a Machine Learning model and finaly how to deploy and use a trained model in Snowflake using Python UDF.
 
-## 3. Prerequisite
+## 3. Prerequisites
+
 
 * Snowflake account (I'm using a trial account)
 * Snowpark for Python version 0.12.0 or later
